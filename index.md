@@ -8,7 +8,6 @@ layout: default
 
 
 | More support for you and your projects, and a brighter future for Dev Sanx.  |
-| --------|
 
 
 
